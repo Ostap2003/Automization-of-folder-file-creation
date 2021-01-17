@@ -21,7 +21,7 @@ The input needs to look like this:<br>
 ***                            
 **IF** you don't want to create any files in a specific folder, then
 the input needs to look like this:
-```dir1/dir2 ;file_in_folder2.txt```  <- here we created file only in the second directory
+```dir1/dir2 ;file_in_folder2.txt```  _<- here we created file only in the second directory_
 
 **IF** you don't want to create any files in a directory, then type ```;``` separators instead of the file names.
   the number of the separators needs to be **(number of created folders - 1)**, otherwise
